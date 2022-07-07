@@ -1,0 +1,14 @@
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\bin\GTI.Wcf.dll.config
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\bin\GTI.Wcf.dll
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\bin\GTI.Wcf.pdb
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\bin\GTEI.Model.dll
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\bin\GTI.BL.dll
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\bin\GTI.DAO.dll
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\bin\GTEI.Model.pdb
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\bin\GTI.BL.pdb
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\bin\GTI.DAO.pdb
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\obj\Debug\GTI.Wcf.csproj.AssemblyReference.cache
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\obj\Debug\GTI.Wcf.csproj.CoreCompileInputs.cache
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\obj\Debug\GTI.Wcf.csproj.CopyComplete
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\obj\Debug\GTI.Wcf.dll
+C:\Users\alexf\source\repos\GTI2\GTI.Wcf\obj\Debug\GTI.Wcf.pdb
